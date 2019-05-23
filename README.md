@@ -1,2 +1,2 @@
-# javascript-adiinheepuder
+# javascript-adiinhepuder
 jogo adivinhação
